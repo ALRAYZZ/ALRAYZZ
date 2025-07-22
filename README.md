@@ -3,6 +3,8 @@
 🌍 **Junior Software Developer** | 💻 **.NET Enthusiast** | 🚀 **Seeking First Opportunity**
 
 Welcome to my GitHub profile! I'm a passionate junior developer specializing in **.NET applications**, including desktop apps, APIs, and web applications.
+Also deepening my knowledge in low level and computer architecture.
+
 This repository serves as my **portfolio** where I showcase personal projects that demonstrate my skills and learning journey.
 
 ## 🛠️ Technical Skills
