@@ -8,38 +8,37 @@ This repository serves as my **portfolio** where I showcase personal projects th
 ## 🛠️ Technical Skills
 
 **Core Stack:**
-- **Languages**: C#, SQL, Python
+- **Languages**: C#, C/C++, Python
 - **.NET Ecosystem**: .NET Core/.NET 6+, ASP.NET MVC/Web API, WPF, WinForms
 - **Web**: HTML5, CSS3, Blazor, Razor Pages
 - **Databases**: SQL Server, Entity Framework Core, MongoDB, PostgreSQL
-- **Tools**: Visual Studio, VS Code, Git, Postman, Docker, other DB tools if needed.
+- **Tools**: Visual Studio, VS Code, VIM, Git, Postman, Docker.
 
 **Other Interests:**
 - Networking concepts and protocols
+- Computer architecture
 - Low-level graphics programming
 - 3D rendering techniques
 - Game development fundamentals
 
 ## 🚀 Current Focus
 
-- Building robust **full-stack .NET applications**
-- Deepening my knowledge on WindowsAPI, COM objects, interop, and Networking fundamentals.
-- Learning more about **computer graphics** and **rendering pipelines**
+- Learning low level computer knowledge through C and C++ projects and problems and written resources.
+- Netowrking and computer architecture
 
 ## 🎯 Career Goals
 
 I'm actively looking for my **first professional opportunity** where I can:
 - Contribute to meaningful projects and teams
-- Grow as a developer
+- Grow as a developer and keep learning
 - Learn from experienced teammates and their teamwork approaches and techniques
-- Apply and expand my .NET knowledge and beyond!
+- Apply and expand my .NET knowledge
 
 ## 📫 Let's Connect!
 
 I'm always open to:
 - Job opportunities (remote or ANYWHERE!)
 - Collaborations on interesting projects
-- Networking with fellow developers
 
 📧 Email: alroigcode@gmail.com 
 🔗 LinkedIn: https://www.linkedin.com/in/almontaner/
