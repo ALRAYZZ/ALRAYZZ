@@ -1,9 +1,10 @@
 # Hi, I'm Alejandro 👋
 
-🌍 **Junior Software Developer** | 💻 **.NET Enthusiast** | 🚀 **Seeking First Opportunity**
+🌍 **Junior Software Developer** | 💻 **.NET Enthusiast** | **Diving on C++ learning networking and graphics programming** | 🚀 **Seeking First Opportunity**
 
 Welcome to my GitHub profile! I'm a passionate junior developer specializing in **.NET applications**, including desktop apps, APIs, and web applications.
 Also deepening my knowledge in low level and computer architecture.
+Working mainly with C++ right now, trying to deepen my knowledge of networking programming, and graphics programming
 
 This repository serves as my **portfolio** where I showcase personal projects that demonstrate my skills and learning journey.
 
@@ -14,7 +15,7 @@ This repository serves as my **portfolio** where I showcase personal projects th
 - **.NET Ecosystem**: .NET Core/.NET 6+, ASP.NET MVC/Web API, WPF, WinForms
 - **Web**: HTML5, CSS3, Blazor, Razor Pages
 - **Databases**: SQL Server, Entity Framework Core, MongoDB, PostgreSQL
-- **Tools**: Visual Studio, VS Code, VIM, Git, Postman, Docker.
+- **Tools**: Visual Studio, VS Code, VIM, Git, Postman, Docker, Qt Framework
 
 **Other Interests:**
 - Networking concepts and protocols
