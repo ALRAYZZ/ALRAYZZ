@@ -1,6 +1,6 @@
 # Hi, I'm Alejandro 👋
 
-🌍 **Junior Software Developer** | 💻 **.NET Enthusiast** | **Diving on C++ learning networking and graphics programming** | 🚀 **Seeking First Opportunity**
+🌍 **Junior Software Developer** | 💻 **.NET Enthusiast** | **Currently diving on networking and graphics programming** | 🚀 **Seeking First Opportunity**
 
 Welcome to my GitHub profile! I'm a passionate junior developer specializing in **.NET applications**, including desktop apps, APIs, and web applications.
 Also deepening my knowledge in low level and computer architecture.
