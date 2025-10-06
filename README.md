@@ -1,6 +1,6 @@
 # Hi, I'm Alejandro 👋
 
-🌍 **Junior Software Developer** | 💻 **.NET Enthusiast** | **Currently diving on networking and graphics programming** | 🚀 **Seeking First Opportunity**
+🌍 **Junior Software Developer** | 💻 **C# C/C++** | **Currently developing a framework for FiveM server architectures** | 🚀 **Seeking First Opportunity**
 
 Welcome to my GitHub profile! I'm a passionate junior developer specializing in **.NET applications**, including desktop apps, APIs, and web applications.
 Also deepening my knowledge in low level and computer architecture.
@@ -26,8 +26,10 @@ This repository serves as my **portfolio** where I showcase personal projects th
 
 ## 🚀 Current Focus
 
+- Developing from scratch in C# a full FiveM framework, from Database integration to server-wide utilities.
 - Learning low level computer knowledge through C and C++ projects and problems and written resources.
 - Netowrking and computer architecture
+
 
 ## 🎯 Career Goals
 
