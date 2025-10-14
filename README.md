@@ -52,7 +52,7 @@ I'm actively looking for my **first professional opportunity** where I can:
 - Contribute to meaningful projects and teams
 - Grow as a developer and keep learning
 - Learn from experienced teammates and their teamwork approaches and techniques
-- Apply and expand my .NET knowledge
+- Apply and expand my knowledge
 
 ## 📫 Let's Connect!
 
