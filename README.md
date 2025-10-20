@@ -1,6 +1,6 @@
 # Hi, I'm Alejandro 👋
 
-🌍 Junior Software Developer | 💻 C# / C++ | 🎮 Currently studying FiveM’s design patterns and core framework by building systems from the ground up 
+🌍 Junior Software Developer | 💻 C# / C++ | 🎮 Currently studying FiveM’s design patterns and core framework
 
 Welcome to my GitHub profile! I'm a passionate junior developer specializing in **.NET applications**, including desktop apps, APIs, and web applications.
 Also deepening my knowledge in low level and computer architecture.
