@@ -1,6 +1,6 @@
-# Hi, I'm Alejandro 👋
+# Hi, I'm Alejandro
 
-🌍 Junior Software Developer | 💻 Rust / C# / C++ | ⚙️ **Focusing on Systems Programming**
+ Junior Software Developer |  Rust / C# / C++ |  **Focusing on Systems Programming**
 
 Welcome to my GitHub profile! I'm a passionate junior developer with a strong foundation in **.NET applications** and a deepening interest in **low-level development** and **computer architecture**.
 
@@ -40,7 +40,7 @@ This repository serves as my **portfolio** where I showcase personal projects th
 - 3D rendering techniques
 - Game development fundamentals
 
-## 🚀 Current Focus: Systems Programming with Rust
+##  Current Focus: Systems Programming with Rust
 
 My main effort is now directed towards **Rust** and **systems programming**. I am actively learning:
 
@@ -48,7 +48,7 @@ My main effort is now directed towards **Rust** and **systems programming**. I a
 * **Networking:** Building concurrent applications and understanding network protocols in Rust.
 * **Low-Level Knowledge:** Continuing to deepen my understanding of computer architecture through C, C++, and now Rust projects.
 
-## 🎯 Career Goals
+##  Career Goals
 
 I'm actively looking for my **first professional opportunity** where I can:
 - Contribute to meaningful projects and teams, especially those involving low-level code or performance engineering.
