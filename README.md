@@ -12,7 +12,7 @@ This repository serves as my **portfolio** where I showcase personal projects th
 
 **Core Stack:**
 
-- **Languages**: **Rust** 🦀 (Primary Focus), C#, C/C++, Python
+- **Languages**: **Rust**  (Primary Focus), C#, C/C++, Python
 - **.NET Ecosystem**: .NET Core/.NET 6+, ASP.NET MVC/Web API, WPF, WinForms
 - **Web**: HTML5, CSS3, Blazor, Razor Pages
 - **Databases**: SQL Server, Entity Framework Core, MongoDB, PostgreSQL
@@ -56,7 +56,7 @@ I'm actively looking for my **first professional opportunity** where I can:
 - Learn from experienced teammates and their teamwork approaches and techniques.
 - Apply and expand my knowledge.
 
-##📫 Let's Connect!
+## Let's Connect!
 
 I'm always open to:
 - Job opportunities (remote or ANYWHERE!)
