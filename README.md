@@ -1,10 +1,8 @@
 # Hi, I'm Alejandro
 
-Junior Software Developer | Rust / C# / C++ | **Transitioning into Cybersecurity Analysis**
+Software Developer | Rust / C# / C++ | **Currently focusing on learning Cybersecurity Analysis**
 
 Welcome to my GitHub profile! I'm a developer with a strong foundation in **Systems Programming** and **.NET applications**, currently pivoting my focus toward **Cybersecurity** and **Network Security**. 
-
-I am bridging the gap between low-level development and security by mastering **Computer Networking**, deep-diving into the **OSI layers**, and understanding how data moves securely (or insecurely) across the wire.
 
 ## Technical Skills
 
