@@ -49,5 +49,3 @@ I'm always open to:
 
 📧 Email: alroigcode@gmail.com 
 🔗 LinkedIn: https://www.linkedin.com/in/almontaner/
-
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ALRAYZZ&show_icons=true&theme=radical)
