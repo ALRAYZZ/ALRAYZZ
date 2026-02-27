@@ -1,17 +1,18 @@
 # Hi, I'm Alejandro
 
-Software Developer | Rust / C# / C++ | **Currently focusing on learning Cybersecurity Analysis**
+Software Developer | Rust / C# / C++ | **Currently focusing on Computer Networking and Security**
 
-Welcome to my GitHub profile! I'm a developer with a strong foundation in **Systems Programming** and **.NET applications**, currently pivoting my focus toward **Cybersecurity** and **Network Security**. 
+Welcome to my GitHub profile! I'm a developer with a foundation in **Systems Programming** and **.NET applications**, currently focused on **Network Security** and **Low-Level programming**
+
+The current approach of my GitHub profile is to make public my entire learning path with the projects, notes, studies, and learnings that I encounter.
 
 ## Technical Skills
 
 **Core Stack:**
 
-- **Languages**: **Rust** (Security Tooling), C#, C/C++, Python (Scripting/Automation)
+- **Languages**: **Rust** (Security Tooling), C#, C/C++, Python, Bash (Scripting/Automation)
 - **Networking & Security**: OSI Model, TCP/IP Protocols, Network Traffic Analysis, Packet Inspection
 - **.NET Ecosystem**: .NET Core/.NET 6+, ASP.NET MVC/Web API, WPF
-- **Databases**: SQL Server, PostgreSQL, MongoDB
 - **Tools**: Wireshark, Nmap, Git, Docker, Visual Studio, VIM
 
 <p align="left">
@@ -25,9 +26,9 @@ Welcome to my GitHub profile! I'm a developer with a strong foundation in **Syst
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
 </p>
 
-## Current Focus: Cybersecurity & Network Architecture
+## Current Focus: Computer Networking and Security
 
-I am currently leveraging my systems programming background to specialize in security analysis. My learning roadmap includes:
+My current learning path includes:
 
 * **Computer Networking:** Deep-diving into all layers of the network stack, from physical hardware constraints to application-layer protocols.
 * **Secure Systems with Rust:** Using Rust’s memory safety to build secure network utilities and explore exploit mitigation.
@@ -41,11 +42,11 @@ I'm seeking my **first professional opportunity** in the security or development
 - Contribute to teams focused on **Cybersecurity Analysis**, Network Security, or DevSecOps.
 - Continue evolving as a security-minded developer, ensuring "security by design" in every line of code.
 
-## Let's Connect!
+## Contact Information
 
 I'm always open to:
 - Security/Dev job opportunities (Remote or Worldwide)
 - Collaborations on open-source security tools or network projects
 
-📧 Email: alroigcode@gmail.com 
-🔗 LinkedIn: https://www.linkedin.com/in/almontaner/
+Email: alroigcode@gmail.com 
+LinkedIn: https://www.linkedin.com/in/almontaner/
