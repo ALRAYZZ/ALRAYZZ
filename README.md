@@ -41,13 +41,13 @@ The goal of this profile is to document my practical learning path, housing my d
 
 ## Featured Projects & Labs
 
-### [Centralized SIEM & Monitoring Lab](YOUR_REPOSITORY_LINK_HERE)
+### Centralized SIEM & Monitoring Lab
 *Configured a self-hosted defensive security infrastructure to monitor live endpoint telemetry.*
 - Deployed a **Linux-hosted Elastic SIEM** instance alongside Kibana for centralized security monitoring.
 - Configured and deployed **Elastic Agent** on a Windows target endpoint to ingest security-critical event logs and Sysmon telemetry.
 - Developed customized Kibana filters and basic detection rules to identify indicators of compromise (IoCs), privilege escalation attempts, and anomalous behavior.
 
-### [Low-Level Network Telemetry Tools](YOUR_REPOSITORY_LINK_HERE)
+### Low-Level Network Telemetry Tools
 *Built native networking utilities in Rust and C++ to study protocol manipulation and data capture.*
 - Developed custom packet sniffing, host discovery, and network diagnostic applications.
 - Analyzed layer 3/4 headers (IP/TCP/UDP) directly from raw sockets to study packet structure and malicious traffic anomalies.
@@ -70,3 +70,4 @@ Open to positions in Spain (Lleida / Relocation) and Remote worldwide.
 
 - **Email:** alroigcode@gmail.com 
 - **LinkedIn:** [linkedin.com/in/almontaner](https://www.linkedin.com/in/almontaner/)
+- **HTB:** [HTB Profile](https://profile.hackthebox.com/profile/019c76fc-7032-732b-a23c-1dd7aceb5cc7)
