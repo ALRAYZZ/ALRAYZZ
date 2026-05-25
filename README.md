@@ -2,15 +2,19 @@
 
 ### Cybersecurity Analyst & Systems Developer | CJCA Certified
 
-[![HTB CJCA Badge](https://img.shields.io/badge/Hack%20The%20Box-CJCA%20Certified-green?style=for-the-badge&logo=hackthebox)](https://www.credly.com/) 
 
 Welcome to my GitHub! I am a systems-focused developer transitioning into **Defensive Cybersecurity and SOC Operations**. I bridge the gap between low-level software engineering and blue-team monitoring—using my understanding of operating system internals, memory management, and network protocols to detect, analyze, and mitigate threats.
 
 The goal of this profile is to document my practical learning path, housing my defensive lab configurations, security tools, and systems programming projects.
 
----
 
 ## Technical Skills
+
+<p align="left">
+  <a href="https://profile.hackthebox.com/profile/019c76fc-7032-732b-a23c-1dd7aceb5cc7/certificate/HTBCERT-E4F0A489DC?view=public" target="_blank">
+    <img src="https://academy.hackthebox.com/storage/badges/0f219b1658b4a6b73a9eb05fb021ff5c/logo.png" width="160" alt="HTB Certified Junior Cybersecurity Associate">
+  </a>
+</p>
 
 **Cybersecurity & Monitoring:**
 - **SIEM & Logging:** Elastic Stack (ELK), Elastic Agent data ingestion, Log Analysis & Normalization (ECS)
