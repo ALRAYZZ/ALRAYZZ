@@ -1,52 +1,68 @@
-# Hi, I'm Alejandro
+# Hi, I'm Alejandro Montaner Roig
 
-Software Developer | Rust / C# / C++ | **Currently focusing on Computer Networking and Security**
+### Cybersecurity Analyst & Systems Developer | CJCA Certified
 
-Welcome to my GitHub profile! I'm a developer with a foundation in **Systems Programming** and **.NET applications**, currently focused on **Network Security** and **Low-Level programming**
+[![HTB CJCA Badge](https://img.shields.io/badge/Hack%20The%20Box-CJCA%20Certified-green?style=for-the-badge&logo=hackthebox)](https://www.credly.com/) 
 
-The current approach of my GitHub profile is to make public my entire learning path with the projects, notes, studies, and learnings that I encounter.
+Welcome to my GitHub! I am a systems-focused developer transitioning into **Defensive Cybersecurity and SOC Operations**. I bridge the gap between low-level software engineering and blue-team monitoring—using my understanding of operating system internals, memory management, and network protocols to detect, analyze, and mitigate threats.
+
+The goal of this profile is to document my practical learning path, housing my defensive lab configurations, security tools, and systems programming projects.
+
+---
 
 ## Technical Skills
 
-**Core Stack:**
+**Cybersecurity & Monitoring:**
+- **SIEM & Logging:** Elastic Stack (ELK), Elastic Agent data ingestion, Log Analysis & Normalization (ECS)
+- **Traffic & Host Analysis:** Wireshark, Nmap, TCP/IP protocol diagnostics, Windows/Linux Event Logs, Sysmon
+- **Methodologies:** Attack surface enumeration, vulnerability assessment, privilege escalation analysis
 
-- **Languages**: **Rust** (Security Tooling), C#, C/C++, Python, Bash (Scripting/Automation)
-- **Networking & Security**: OSI Model, TCP/IP Protocols, Network Traffic Analysis, Packet Inspection
-- **.NET Ecosystem**: .NET Core/.NET 6+, ASP.NET MVC/Web API, WPF
-- **Tools**: Wireshark, Nmap, Git, Docker, Visual Studio, VIM
+**Software & Systems Engineering:**
+- **Languages:** **Rust** (Security Tooling), C++, C#, Python, Bash / PowerShell (Automation)
+- **Frameworks & Ecosystems:** .NET Core, ASP.NET Web API, WPF, wgpu / DirectX (Low-level rendering)
+- **DevOps & Tools:** Linux/Unix toolchains, Docker (Basic), Git/GitHub, Visual Studio, Vim
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="40" alt="Rust"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" alt="C#"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40" alt=".NET"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
 </p>
 
-## Current Focus: Computer Networking and Security
+---
 
-My current learning path includes:
+## Featured Projects & Labs
 
-* **Computer Networking:** Deep-diving into all layers of the network stack, from physical hardware constraints to application-layer protocols.
-* **Secure Systems with Rust:** Using Rust’s memory safety to build secure network utilities and explore exploit mitigation.
-* **Traffic Analysis:** Learning to identify vulnerabilities and anomalies within network traffic and system logs.
-* **Infrastructure:** Understanding how components like routers, switches, and firewalls interact at a granular level.
+### [Centralized SIEM & Monitoring Lab](YOUR_REPOSITORY_LINK_HERE)
+*Configured a self-hosted defensive security infrastructure to monitor live endpoint telemetry.*
+- Deployed a **Linux-hosted Elastic SIEM** instance alongside Kibana for centralized security monitoring.
+- Configured and deployed **Elastic Agent** on a Windows target endpoint to ingest security-critical event logs and Sysmon telemetry.
+- Developed customized Kibana filters and basic detection rules to identify indicators of compromise (IoCs), privilege escalation attempts, and anomalous behavior.
 
-## Career Goals
+### [Low-Level Network Telemetry Tools](YOUR_REPOSITORY_LINK_HERE)
+*Built native networking utilities in Rust and C++ to study protocol manipulation and data capture.*
+- Developed custom packet sniffing, host discovery, and network diagnostic applications.
+- Analyzed layer 3/4 headers (IP/TCP/UDP) directly from raw sockets to study packet structure and malicious traffic anomalies.
 
-I'm seeking my **first professional opportunity** in the security or development space where I can:
-- Apply my knowledge of **low-level systems** to protect and analyze digital infrastructure.
-- Contribute to teams focused on **Cybersecurity Analysis**, Network Security, or DevSecOps.
-- Continue evolving as a security-minded developer, ensuring "security by design" in every line of code.
+---
 
-## Contact Information
+## Current Focus & Objectives
 
-I'm always open to:
-- Security/Dev job opportunities (Remote or Worldwide)
-- Collaborations on open-source security tools or network projects
+- **Blue Team Operations:** Designing detection mechanisms, handling alert triaging workflows, and expanding threat hunting techniques.
+- **Windows/Linux Forensics:** Deepening my understanding of OS artifacts, process execution trees, and malware persistence mechanisms.
+- **Secure Architecture:** Using Rust to implement memory-safe networking tools and validating defense-in-depth strategies.
 
-Email: alroigcode@gmail.com 
-LinkedIn: https://www.linkedin.com/in/almontaner/
+---
+
+## Connect with Me
+
+I am actively seeking my first professional role as a **SOC Analyst, Security Analyst, or Security Engineer** where I can protect digital infrastructure using a first-principles approach to software and network behavior. 
+
+Open to positions in Spain (Lleida / Relocation) and Remote worldwide.
+
+- **Email:** alroigcode@gmail.com 
+- **LinkedIn:** [linkedin.com/in/almontaner](https://www.linkedin.com/in/almontaner/)
