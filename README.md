@@ -1,11 +1,11 @@
 # Hi, I'm Alejandro Montaner Roig
 
-### Cybersecurity Analyst & Systems Developer | CJCA Certified
+### Cybersecurity Analyst & Developer
 
 
-Welcome to my GitHub! I am a systems-focused developer transitioning into **Defensive Cybersecurity and SOC Operations**. I bridge the gap between low-level software engineering and blue-team monitoring—using my understanding of operating system internals, memory management, and network protocols to detect, analyze, and mitigate threats.
+Welcome to my GitHub! I am a security guy who likes software and network protocols.
 
-The goal of this profile is to document my practical learning path, housing my defensive lab configurations, security tools, and systems programming projects.
+The goal of this profile is to document my practical learning path and to house my defensive lab configurations, security tools, and programming projects.
 
 
 ## Technical Skills
