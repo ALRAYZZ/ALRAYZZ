@@ -1,4 +1,4 @@
-# Hi, I'm Alejandro Montaner Roig
+# Alejandro Montaner Roig
 
 ### Cybersecurity Analyst & Developer
 
