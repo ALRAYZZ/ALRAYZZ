@@ -10,11 +10,7 @@ The goal of this profile is to document my practical learning path and to house 
 
 ## Technical Skills
 
-<p align="left">
-  <a href="https://profile.hackthebox.com/profile/019c76fc-7032-732b-a23c-1dd7aceb5cc7/certificate/HTBCERT-E4F0A489DC?view=public" target="_blank">
-    <img src="https://academy.hackthebox.com/storage/badges/0f219b1658b4a6b73a9eb05fb021ff5c/logo.png" width="160" alt="HTB Certified Junior Cybersecurity Associate">
-  </a>
-</p>
+Certified Junior Cybersecurity Associate [CJCA] - Hack the Box
 
 **Cybersecurity & Monitoring:**
 - **SIEM & Logging:** Elastic Stack (ELK), Elastic Agent data ingestion, Log Analysis & Normalization (ECS)
