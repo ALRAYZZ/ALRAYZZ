@@ -10,8 +10,11 @@ The goal of this profile is to document my practical learning path and to house 
 
 ## Technical Skills
 
-Certified Junior Cybersecurity Associate [CJCA] - Hack the Box
-Certified Defensive Security Analyst [CDSA] - Hack the Box
+### Certifications
+
+- Junior Cybersecurity Associate **[CJCA]** - Hack the Box
+
+- Defensive Security Analyst **[CDSA]** - Hack the Box
 
 **Cybersecurity & Monitoring:**
 - **SIEM & Logging:** Elastic Stack (ELK), Elastic Agent data ingestion, Log Analysis & Normalization (ECS)
